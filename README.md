@@ -13,6 +13,8 @@ SDK cliente oficial em **Go (Golang 1.22+)** para integração de altíssima per
 - **Server-Sent Events (SSE):** Streaming push em tempo real com reconexão automática e sincronização contínua.
 - **Thread-Safe & Zero Allocation:** Cache local otimizado com `sync.RWMutex` / `sync.Map`.
 
+> 📖 **Para a especificação detalhada do algoritmo Dual TTL e modos de transporte, consulte [SPECIFICATION.md](SPECIFICATION.md).**
+
 ---
 
 ## 📦 Instalação
